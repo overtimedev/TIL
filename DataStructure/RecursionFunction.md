@@ -4,4 +4,4 @@ c언어를 배우면 재귀함수를 같이 배우게되는데 이해하기에 �
 ## 재귀함수
 함수 내에서 자기 자신을 호출하는 것을 의미한다.
 
-<img src="https://user-images.githubusercontent.com/80398170/167287017-90588849-0cf4-45bc-9d04-e3671827b5b4.png"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/80398170/167287017-90588849-0cf4-45bc-9d04-e3671827b5b4.png"  width="700" height="400">
