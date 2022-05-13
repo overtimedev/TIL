@@ -14,7 +14,9 @@
 cmder같은 콘솔 응용프로그램을 다운받아 사용했었다. 
 
 하지만 윈도우 store에 좋은 프로그램이 더 있었다 .
-**windows Terminal** 동시에 다른 콘솔창을 사용할 수 있으며 UI도 powershell과 cmder보다 깔끔했다. 
+**그것은 windows Terminal** 
+
+동시에 다른 콘솔창을 사용할 수 있으며 UI도 powershell과 cmder보다 깔끔했다. 
 
 (사진)
 
