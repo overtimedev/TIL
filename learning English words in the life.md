@@ -6,4 +6,4 @@
 <img src="https://user-images.githubusercontent.com/80398170/169923556-136d87a0-2e1c-4ac7-8ca5-b9a0a78a071f.png" width="70%" height="70%">
 ## The document was renamed without changes.
 **수정된 것이 없는 상태에서 Preview changes로 변환 시 나옴.
-<img src="https://user-images.githubusercontent.com/80398170/169923574-8bf95650-51fd-4f89-92ac-5b8aa1cbc3aa.png" width="70%" height="70%">
+<img src="https://user-images.githubusercontent.com/80398170/169923574-8bf95650-51fd-4f89-92ac-5b8aa1cbc3aa.png" width="70%" height="70%"> 
