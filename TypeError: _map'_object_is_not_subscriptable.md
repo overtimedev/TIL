@@ -10,8 +10,8 @@ for elem in arr:
     cnt += 1
 ```
 코드를 작성하는 도중 subscripable에러 발생 
-`list()type이 아닌데 인덱스로 접근하려하여 발생한 에러`
-## list()로 casting을 한다. 
+`배열 arr이 list() type이 아닌데(현 map클래스) map 클래스를 인덱스로 접근하려하여 발생한 에러`
+## arr배열을  list()로 casting을 한다. 
 ```python
 arr = list(map(int, input().split()))
 cnt = 0
